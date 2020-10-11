@@ -6,22 +6,22 @@
 Here are some ideas to get you started:
  -->
 
-### 👩‍🎓 I’m currently studying at WVSU
+### 👩‍🎓 I’m currently studying at West Visayas State University
 ### 📕 Taking up BS Information Systems Major in Business Analytics
 
 ## - 🌱 I’m currently learning ...
-Sparx
-Flutter
-Different Programming languages
-Technopreneurship
+- Sparx
+- Flutter
+- Different Programming languages
+- Technopreneurship
 
 
 
 
 
 ## - 📫 How to reach me...
- Gmail: marierose.bersonia@wvsu.edu.ph
- Facebook: Marie Bersonia
+- Gmail: marierose.bersonia@wvsu.edu.ph
+- Facebook: Marie Bersonia
 
 ## - ⚡ Fun fact...
  Did you know that the first programmer is a Woman? That's why programming is difficult to understand 😆
